@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// Тестова зміна коду для перевірки Git
+#include <iostream>
 #include <fstream>
 #include <iomanip>
 
